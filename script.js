@@ -28,28 +28,29 @@ document.getElementById("yes").onclick = () => {
 <source src="Fixcinta1.mp3" type="audio/mpeg">
 </audio>
 
-';
+`;
+  
+  const text2 = `Terima kasih sudah hadir di hidupku🤍
 
-Const text2 = 'Untuk kamu yang jauh di sana 🤍
+Aku mungkin tidak pernah tahu bagaimana akhir dari perjalanan kita nanti, tapi aku selalu percaya bahwa setiap pertemuan memiliki alasan.Dan salah satu hal yang paling aku syukuri adalah bisa dipertemukan denganmu.
 
-Terima kasih sudah hadir di hidupku. Aku masih sering merasa tidak percaya bahwa di antara banyaknya orang di dunia ini, aku bisa menemukan seseorang yang membuat hatiku merasa nyaman seperti ini.
+Terima kasih karena sudah datang membawa warna baru dalam hidupku.Terima kasih karena dengan caramu sendiri, kamu bisa membuat hari - hari yang biasa terasa lebih istimewa.Ada hal kecil dari dirimu yang mungkin tidak kamu sadari, tapi mampu membuatku tersenyum dan merasa bahagia.
 
-Aku tahu perjalanan kita tidak selalu mudah. Ada jarak yang terkadang membuat rindu terasa lebih berat, ada waktu-waktu di mana kita hanya bisa saling menunggu kabar, dan ada momen ketika aku hanya bisa melihat senyummu lewat layar. Tapi dari semua itu, aku belajar bahwa seseorang yang berarti tetap bisa terasa dekat meskipun berada jauh.
+Aku tahu aku masih jauh dari kata sempurna.Aku punya kekurangan, punya banyak hal yang masih harus aku perbaiki, dan ada bagian dari masa laluku yang membentuk siapa aku sekarang.Tapi satu hal yang ingin aku lakukan adalah terus belajar menjadi seseorang yang pantas untuk berada di sampingmu.
 
-Terima kasih sudah menjadi bagian dari hari-hariku. Terima kasih untuk setiap cerita kecil yang kamu bagikan, setiap perhatian sederhana yang kamu berikan, dan setiap waktu yang kamu luangkan untukku. Mungkin bagimu itu hal kecil, tapi bagiku itu adalah sesuatu yang berharga.
+Aku ingin menjadi seseorang yang tidak hanya hadir ketika semuanya terasa mudah, tapi juga seseorang yang tetap berusaha memahami dan menjaga kamu ketika keadaan tidak selalu baik.
 
-Aku sadar aku bukan seseorang yang sempurna. Aku punya kekurangan, punya kesalahan, dan punya masa lalu yang membentuk diriku sampai hari ini. Tapi bersamamu, aku ingin terus belajar menjadi versi terbaik dari diriku. Aku ingin menjadi seseorang yang bisa membuatmu merasa aman, dihargai, dan dicintai.
+Terima kasih sudah memberikan aku kesempatan untuk mengenalmu.Terima kasih sudah mempercayakan sebagian ceritamu kepadaku.Terima kasih sudah menjadi alasan dari banyak senyum kecil yang mungkin tidak pernah kamu tahu.
 
-Aku tidak tahu bagaimana panjangnya perjalanan kita nanti. Aku tidak tahu apa saja yang akan kita hadapi di masa depan. Tapi satu hal yang aku tahu, hari ini aku bersyukur karena pernah menemukanmu.
+Aku tidak ingin hanya menjadi seseorang yang singgah sebentar dalam hidupmu.Aku ingin menjadi bagian dari cerita yang akan selalu kamu ingat, cerita yang penuh dengan tawa, perjuangan, dan kenangan indah yang kita buat bersama.
 
-Kalau suatu hari nanti kita melihat kembali perjalanan ini, aku berharap kita bisa tersenyum dan berkata, “Ternyata kita berhasil melewati semuanya bersama.”
+Mungkin perjalanan kita masih panjang.Mungkin akan ada banyak hal yang harus kita pelajari satu sama lain.Tapi selama kita masih sama - sama memilih untuk berjalan bersama, aku ingin menikmati setiap prosesnya.
 
-Terima kasih sudah memilih aku. Terima kasih sudah hadir di ceritaku. Semoga apa yang kita bangun sekarang bisa menjadi kenangan indah yang selalu kita simpan dalam hati.
+Semoga apa yang kita miliki sekarang bisa terus tumbuh menjadi sesuatu yang indah.Semoga suatu hari nanti kita bisa melihat kembali awal cerita ini dan tersenyum karena pernah saling menemukan.
 
-Jaga dirimu baik-baik ya. Karena ada seseorang di sini yang selalu mendoakanmu dan berharap kamu selalu bahagia.
+Terima kasih sudah hadir di hidupku.Terima kasih sudah menjadi kamu.
 
-Our story forever with you 🤍';
-  const text2 = `;
+Our story forever with you🤍`;
   
   let j = 0;
   
