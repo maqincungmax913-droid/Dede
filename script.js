@@ -28,23 +28,28 @@ document.getElementById("yes").onclick = () => {
 <source src="Fixcinta1.mp3" type="audio/mpeg">
 </audio>
 
-`;
-  
-  const text2 = `Terima kasih sudah hadir di hidupku 🤍
+';
 
-Aku tidak tahu bagaimana panjangnya perjalanan kita nanti,
-tapi untuk hari ini aku bersyukur pernah menemukanmu.
-Kamu adalah seseorang yang membuat hari-hariku terasa lebih berwarna.
-Aku tahu aku bukan orang yang sempurna.
-Aku punya kekurangan dan masa lalu,
-tapi aku ingin terus belajar menjadi seseorang
-yang bisa membuatmu merasa dicintai.
+Const text2 = 'Untuk kamu yang jauh di sana 🤍
 
-Terima kasih sudah memilih aku.
-Semoga cerita kecil kita bisa menjadi sesuatu
-yang selalu kita ingat.
+Terima kasih sudah hadir di hidupku. Aku masih sering merasa tidak percaya bahwa di antara banyaknya orang di dunia ini, aku bisa menemukan seseorang yang membuat hatiku merasa nyaman seperti ini.
 
-Our story forever with you 🤍`;
+Aku tahu perjalanan kita tidak selalu mudah. Ada jarak yang terkadang membuat rindu terasa lebih berat, ada waktu-waktu di mana kita hanya bisa saling menunggu kabar, dan ada momen ketika aku hanya bisa melihat senyummu lewat layar. Tapi dari semua itu, aku belajar bahwa seseorang yang berarti tetap bisa terasa dekat meskipun berada jauh.
+
+Terima kasih sudah menjadi bagian dari hari-hariku. Terima kasih untuk setiap cerita kecil yang kamu bagikan, setiap perhatian sederhana yang kamu berikan, dan setiap waktu yang kamu luangkan untukku. Mungkin bagimu itu hal kecil, tapi bagiku itu adalah sesuatu yang berharga.
+
+Aku sadar aku bukan seseorang yang sempurna. Aku punya kekurangan, punya kesalahan, dan punya masa lalu yang membentuk diriku sampai hari ini. Tapi bersamamu, aku ingin terus belajar menjadi versi terbaik dari diriku. Aku ingin menjadi seseorang yang bisa membuatmu merasa aman, dihargai, dan dicintai.
+
+Aku tidak tahu bagaimana panjangnya perjalanan kita nanti. Aku tidak tahu apa saja yang akan kita hadapi di masa depan. Tapi satu hal yang aku tahu, hari ini aku bersyukur karena pernah menemukanmu.
+
+Kalau suatu hari nanti kita melihat kembali perjalanan ini, aku berharap kita bisa tersenyum dan berkata, “Ternyata kita berhasil melewati semuanya bersama.”
+
+Terima kasih sudah memilih aku. Terima kasih sudah hadir di ceritaku. Semoga apa yang kita bangun sekarang bisa menjadi kenangan indah yang selalu kita simpan dalam hati.
+
+Jaga dirimu baik-baik ya. Karena ada seseorang di sini yang selalu mendoakanmu dan berharap kamu selalu bahagia.
+
+Our story forever with you 🤍';
+  const text2 = `;
   
   let j = 0;
   
