@@ -6,12 +6,13 @@ body {
   justify-content: center;
   align-items: flex-start;
   background: linear-gradient(135deg, #ffd6e7, #fff);
-  overflow-x: hidden;
+  overflow-x: auto;
+  overflow-x: auto;
 }
 
 .card {
   width: 100%;
-  max-width: 450px;
+  max-width: 600px;
   background: white;
   border-radius: 25px;
   padding: 30px 25px;
