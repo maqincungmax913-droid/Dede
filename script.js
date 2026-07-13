@@ -35,7 +35,6 @@ document.getElementById("yes").onclick = () => {
 Aku mungkin tidak pernah tahu bagaimana akhir dari perjalanan kita nanti, tapi aku selalu percaya bahwa setiap pertemuan memiliki alasan.Dan salah satu hal yang paling aku syukuri adalah bisa dipertemukan denganmu.
 
 Ada hal kecil dari dirimu yang mungkin tidak kamu sadari, tapi mampu membuatku tersenyum dan merasa bahagia.
-
 Aku tahu aku masih jauh dari kata sempurna.Aku punya kekurangan, punya banyak hal yang masih harus aku perbaiki, dan ada bagian dari masa laluku yang membentuk siapa aku sekarang.Tapi satu hal yang ingin aku lakukan adalah terus belajar menjadi seseorang yang pantas untuk berada di sampingmu. 
 Aku tidak ingin hanya menjadi seseorang yang singgah sebentar dalam hidupmu. Aku ingin menjadi bagian dari cerita yang akan selalu kamu ingat, cerita yang penuh dengan tawa, perjuangan, dan kenangan indah yang kita buat bersama.
 
