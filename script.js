@@ -16,7 +16,7 @@ document.getElementById("yes").onclick = () => {
   
   document.querySelector(".card").innerHTML = `
 
-<img src="Foto1.JPG" class="photo">
+<img src="Foto2.JPG" class="photo">
 
 <h1>Yeyyy kamu pilih aku 🤍</h1>
 
