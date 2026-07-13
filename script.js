@@ -44,11 +44,9 @@ Terima kasih sudah memberikan aku kesempatan untuk mengenalmu.Terima kasih sudah
 
 Aku tidak ingin hanya menjadi seseorang yang singgah sebentar dalam hidupmu.Aku ingin menjadi bagian dari cerita yang akan selalu kamu ingat, cerita yang penuh dengan tawa, perjuangan, dan kenangan indah yang kita buat bersama.
 
-Mungkin perjalanan kita masih panjang.Mungkin akan ada banyak hal yang harus kita pelajari satu sama lain.Tapi selama kita masih sama - sama memilih untuk berjalan bersama, aku ingin menikmati setiap prosesnya.
+Mungkin perjalanan kita masih panjang.Mungkin akan ada banyak hal yang harus kita pelajari satu sama lain.
 
-Semoga suatu hari nanti kita bisa melihat kembali awal cerita ini dan tersenyum karena pernah saling menemukan.
-
-Terima kasih sudah hadir di hidupku.Terima kasih sudah menjadi kamu.
+Terima kasih sudah hadir di hidupku. Terima kasih sudah menjadi kamu.
 
 Our story forever with you🤍`;
   
